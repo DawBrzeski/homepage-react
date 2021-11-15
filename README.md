@@ -1,4 +1,63 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+# This is my personal homepage
+Included: 
+Light mode 
+preview: 
+
+![preview in light mode](./src/images/readme/homepageLight.gif)
+
+Theme switching
+preview: 
+
+![theme switching](./src/images/readme/homepageDarkHandler.gif)
+
+Dark mode 
+preview: 
+
+![preview in dark mode](./src/images/readme/homepageDark.gif)
+
+Loading repositories from github using axios
+preview: 
+
+![loading repositories list](./src/images/readme/loading.gif)
+
+Error status handling 
+preview: 
+
+![error handling](./src/images/readme/error.gif)
+
+
+***
+***
+
+## The app contains such technologies as:
+- Responsive web design
+- CSS-Flexbox
+- CSS-Grid
+- JS/ES6+ features
+- Error handling
+- Promises, Async/Await
+- AJAX/API/LocalStorage
+- React 17 features
+- Styled components
+- React/custom Hooks
+- React-Redux
+- Redux-Saga
+- React Router
+
+***
+***
+## Demo: 
+
+https://dawbrzeski.github.io/personalhomepage-react/
+
+
+***
+
+_____________________
+
+## Getting Started with Create React App!
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
