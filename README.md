@@ -48,7 +48,7 @@ preview:
 ***
 ## Demo: 
 
-https://dawbrzeski.github.io/personalhomepage-react/
+https://dawbrzeski.github.io/homepage-react/
 
 
 ***
