@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.js": "/homepage-react/static/js/main.1e881a19.chunk.js",
+    "main.js.map": "/homepage-react/static/js/main.1e881a19.chunk.js.map",
+    "runtime-main.js": "/homepage-react/static/js/runtime-main.0abce39f.js",
+    "runtime-main.js.map": "/homepage-react/static/js/runtime-main.0abce39f.js.map",
+    "static/js/2.30c93b03.chunk.js": "/homepage-react/static/js/2.30c93b03.chunk.js",
+    "static/js/2.30c93b03.chunk.js.map": "/homepage-react/static/js/2.30c93b03.chunk.js.map",
+    "index.html": "/homepage-react/index.html",
+    "static/js/2.30c93b03.chunk.js.LICENSE.txt": "/homepage-react/static/js/2.30c93b03.chunk.js.LICENSE.txt",
+    "static/media/bullet.41506939.svg": "/homepage-react/static/media/bullet.41506939.svg",
+    "static/media/computerIcon.77e407f7.png": "/homepage-react/static/media/computerIcon.77e407f7.png",
+    "static/media/envelop.c6eeb8c8.svg": "/homepage-react/static/media/envelop.c6eeb8c8.svg",
+    "static/media/faceIcon.8ea4ccec.png": "/homepage-react/static/media/faceIcon.8ea4ccec.png",
+    "static/media/facebook.5bf8a319.svg": "/homepage-react/static/media/facebook.5bf8a319.svg",
+    "static/media/github.74c233b2.svg": "/homepage-react/static/media/github.74c233b2.svg",
+    "static/media/githubLogo.bb4150a1.svg": "/homepage-react/static/media/githubLogo.bb4150a1.svg",
+    "static/media/instagram.14e55f7b.svg": "/homepage-react/static/media/instagram.14e55f7b.svg",
+    "static/media/linkedin.fb3c32e8.svg": "/homepage-react/static/media/linkedin.fb3c32e8.svg",
+    "static/media/profile.dbaba73f.jpg": "/homepage-react/static/media/profile.dbaba73f.jpg",
+    "static/media/rocket.b58a9096.png": "/homepage-react/static/media/rocket.b58a9096.png",
+    "static/media/spinner.e2a5769e.svg": "/homepage-react/static/media/spinner.e2a5769e.svg",
+    "static/media/sun.71163365.svg": "/homepage-react/static/media/sun.71163365.svg",
+    "static/media/tools.c46ea566.png": "/homepage-react/static/media/tools.c46ea566.png",
+    "static/media/warrning.d8525c2e.svg": "/homepage-react/static/media/warrning.d8525c2e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0abce39f.js",
+    "static/js/2.30c93b03.chunk.js",
+    "static/js/main.1e881a19.chunk.js"
+  ]
+}
