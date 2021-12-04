@@ -8,22 +8,22 @@ import { ReactComponent as LinkedInIcon } from "./icons/linkedin.svg";
 export const socials = [
     {
         name: "GitHub",
-        url: "http://github.com",
+        url: "https://github.com/DawBrzeski",
         Icon: styleIcon(GitHubIcon),
     },
     {
         name: "Facebook",
-        url: "http://facebook.com",
+        url: "https://www.facebook.com/daw.brzeski",
         Icon: styleIcon(FacebookIcon),
     },
     {
         name: "LinkedIn",
-        url: "http://linkedin.com",
+        url: "https://www.linkedin.com/in/dawid-brzeski-321016227/",
         Icon: styleIcon(LinkedInIcon),
     },
     {
         name: "Instagram",
-        url: "http://instagram.com",
+        url: "https://www.instagram.com/xaxa.bu/",
         Icon: styleIcon(InstagramIcon),
     },
 
