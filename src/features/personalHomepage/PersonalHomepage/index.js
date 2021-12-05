@@ -7,7 +7,7 @@ import { nextSkills, skills } from "./skillData";
 import { Container, Icon } from "./styled";
 import RocketIcon  from "./rocket.png";
 import ToolsIcon  from "./tools.png";
-import { ErrorBox } from "./Portfolio/Content/ErrorBox";
+
 
 
 export const PersonalHomepage = () => (

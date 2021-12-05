@@ -1,4 +1,4 @@
-import { call, put, select, takeEvery, takeLatest } from "@redux-saga/core/effects"
+import { call, put, select, takeLatest } from "@redux-saga/core/effects"
 import { getThemeFromLocalStorage, saveThemeInLocalStorage } from "./themeLocalStorage"
 import { getThemeState, selectIsDarkTheme, toggleTheme } from "./themeSlice"
 
