@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/homepage-react/static/js/main.87fa1d58.chunk.js",
-    "main.js.map": "/homepage-react/static/js/main.87fa1d58.chunk.js.map",
+    "main.js": "/homepage-react/static/js/main.60119cdd.chunk.js",
+    "main.js.map": "/homepage-react/static/js/main.60119cdd.chunk.js.map",
     "runtime-main.js": "/homepage-react/static/js/runtime-main.0abce39f.js",
     "runtime-main.js.map": "/homepage-react/static/js/runtime-main.0abce39f.js.map",
-    "static/js/2.30c93b03.chunk.js": "/homepage-react/static/js/2.30c93b03.chunk.js",
-    "static/js/2.30c93b03.chunk.js.map": "/homepage-react/static/js/2.30c93b03.chunk.js.map",
+    "static/js/2.96949e95.chunk.js": "/homepage-react/static/js/2.96949e95.chunk.js",
+    "static/js/2.96949e95.chunk.js.map": "/homepage-react/static/js/2.96949e95.chunk.js.map",
     "index.html": "/homepage-react/index.html",
-    "static/js/2.30c93b03.chunk.js.LICENSE.txt": "/homepage-react/static/js/2.30c93b03.chunk.js.LICENSE.txt",
+    "static/js/2.96949e95.chunk.js.LICENSE.txt": "/homepage-react/static/js/2.96949e95.chunk.js.LICENSE.txt",
     "static/media/bullet.41506939.svg": "/homepage-react/static/media/bullet.41506939.svg",
     "static/media/computerIcon.77e407f7.png": "/homepage-react/static/media/computerIcon.77e407f7.png",
     "static/media/envelop.c6eeb8c8.svg": "/homepage-react/static/media/envelop.c6eeb8c8.svg",
@@ -26,7 +26,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.0abce39f.js",
-    "static/js/2.30c93b03.chunk.js",
-    "static/js/main.87fa1d58.chunk.js"
+    "static/js/2.96949e95.chunk.js",
+    "static/js/main.60119cdd.chunk.js"
   ]
 }
