@@ -16,7 +16,7 @@ export const MainInformation = () => (
                 <Icon src={computerIcon} alt="" />
                 I'm passionate Frontend Developer in love with React, currently looking for new job oppourtinutes.
             </Summary>
-            <StyledButtonLink href={`mailto:${email}`} title={email}>
+            <StyledButtonLink alt="Hire me" href={`mailto:${email}`} title={email}>
                 <ButtonIcon />
                 Hire me
             </StyledButtonLink>
